@@ -2,6 +2,7 @@
 
 | Keypress | Command |
 |---|---|
+| <kbd>Alt</kbd> + <kbd>Command</kbd> + <kbd>.</kbd> | Close tag |
 | <kbd>Command</kbd> + <kbd>/</kbd> | Comment/un-comment current line |
 | <kbd>Command</kbd> + <kbd>Control</kbd> + <kbd>↑</kbd> | Move line/selection up |
 | <kbd>Command</kbd> + <kbd>Control</kbd> + <kbd>↓</kbd> | Move line/selection down |

@@ -5,10 +5,11 @@
 ### Shortcuts
 
 - [Editing](shortcuts/editing.md)
+- [Git](shortcuts/git.md)
+- [Navigation](shortcuts/navigation.md)
 - [Split Window](shortcuts/split_window.md)
 - [Tabs](shortcuts/tabs.md)
 - [Text Manipulation](shortcuts/text_manipulation.md)
-- [Navigation](shortcuts/navigation.md)
 
 ---
 
